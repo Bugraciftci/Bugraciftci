@@ -1,45 +1,66 @@
-<div align="center">I'm Buğra, a full-time iOS developer 👨‍💻 🚀</div>  
-<div align="center">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/80/ad/0980ad11-a73d-28d1-6f8e-660f62d9f999/AppIcon-0-0-1x_U007epad-0-85-220.png/217x0w.webp" style="width: 100px; height: 100px; margin-right: 20px;" />
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/1b/f6/7c1bf6d7-92f6-6e7b-78b5-3dc19cfebf69/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/217x0w.webp" style="width: 100px; height: 100px; margin-right: 20px;" />
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/62/86/fc628633-7efe-3492-68ea-cc4cb10e31a9/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/217x0w.webp" style="width: 100px; height: 100px;" />
-</div>  
-My Skill Set
-<table><tr><td valign="top" width="33%">
-</td><td valign="top" width="33%">
-<div align="center">
-    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>
-    <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>
-    <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="75" /></a>
-    <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Buğra and I'm a iOS developer from Türkiye</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">My Featured Applications</h2>
+
+###
+
+<img align="left" height="250" src="![IMG-20240422-WA0011](https://github.com/Bugraciftci/Bugraciftci/assets/105795230/3b927930-90c9-4526-8d3e-df77bd61ff2b)
+"  />
+
+###
+
+<img align="left" height="250" src="![IMG-20240422-WA0008](https://github.com/Bugraciftci/Bugraciftci/assets/105795230/85bda580-f54d-42af-9a0c-4475192c594f)
+"  />
+
+###
+
+<img align="left" height="250" src="![IMG-20240422-WA0010](https://github.com/Bugraciftci/Bugraciftci/assets/105795230/ed17a538-7aff-49c4-bfd4-69f7875f48d5)
+"  />
+
+###
+
+<div align="left">
+  <img height="250" src="![IMG-20240422-WA0009](https://github.com/Bugraciftci/Bugraciftci/assets/105795230/81b3a3f6-2220-4fe3-baf5-21f42ddddb75)
+"  />
 </div>
-</td><td valign="top" width="33%">
-</td></tr></table>  
-Connect with me
+
+###
+
+<h2 align="left">My Skill Set</h2>
+
+###
+
 <div align="center">
-    <a href="https://github.com/Bugraciftci" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-    <a href="https://twitter.com/Bugra_ciftci_" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
-    <a href="https://linkedin.com/in/muhammed-buğra-çiftçi-07b22b244" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-    <a href="https://medium.com/@muhammed.ciftci1" target="_blank"><img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
-</div>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bugraciftci&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+###
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bugraciftci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bugraciftci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## Recent Blog Posts  
-![Profile views counter](https://komarev.com/ghpvc/?username=Bugraciftci&&style=flat-square)  
-
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+###
