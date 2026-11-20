@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=iOS+%26+Mobile+Systems+Engineer+(Swift+6+%7C+SwiftUI+%7C+CarPlay);10%2B+Monetized+App+Store+Apps+%E2%80%A2+%3E99.5%25+Crash-Free;AI+Agents%2C+Automation+%26+Full-Stack+Engineering;Building+Scalable%2C+High-Performance+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=iOS+%26+Mobile+Systems+Engineer+(Swift+6+%7C+SwiftUI+%7C+CarPlay);10%2B+Monetized+App+Store+Apps+%E2%80%A2+%3E99.5%25+Crash-Free;AI+Agents%2C+Evaluation+%26+Full-Stack+Engineering;Building+Scalable%2C+High-Performance+Products" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -36,7 +36,7 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
 
 - 🔭 **Mobile & Apple Ecosystem:** Swift 6, SwiftUI, UIKit, Combine, Structured Concurrency (`async/await`, Actors), CarPlay (`CPTemplate`), ScreenTime API (`FamilyControls`), WidgetKit, AVFoundation, StoreKit 2
 - 🏗️ **Architecture & Quality:** Clean Architecture, Protocol-Oriented MVVM, Modular UI Libraries, Keychain Security, XCTest, Xcode Instruments
-- 🤖 **AI & Full-Stack:** Python, TypeScript, Next.js, Cloudflare Edge, AI Agent & MCP Workflows, Automation Pipelines
+- 🤖 **AI & Full-Stack:** Python, TypeScript, Next.js, FastAPI, Cloudflare Edge, LLM/MCP Evaluation & Automation Pipelines
 - 🐳 **DevOps & Data:** Docker, PostgreSQL, SQLite, Redis, Firebase, GitHub Actions CI/CD
 
 ---
@@ -48,17 +48,57 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Mobile & iOS** | ![Swift](https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-FF9500?style=flat-square&logo=apple&logoColor=white) ![SwiftData](https://img.shields.io/badge/SwiftData%20%2F%20CoreData-5856D6?style=flat-square&logo=apple&logoColor=white) ![StoreKit 2](https://img.shields.io/badge/StoreKit_2-34C759?style=flat-square&logo=apple&logoColor=white) |
-| **Languages & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Languages & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **Tools & Apple Ecosystem** | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![TestFlight](https://img.shields.io/badge/TestFlight-0071E3?style=flat-square&logo=apple&logoColor=white) ![Instruments](https://img.shields.io/badge/Instruments-8E8E93?style=flat-square&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-### 🌟 Featured Highlights
+### 🌟 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💎 <a href="https://github.com/Bugraciftci/SwiftStoreFlow">SwiftStoreFlow</a></h4>
+      <p>Production-grade Swift 6 &amp; SwiftUI StoreKit 2 monetization architecture with actor-isolated purchase deduplication, Keychain offline fallback, MVVM, and XCTest suite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/StoreKit_2-34C759?style=flat-square&logo=apple&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Bugraciftci/agent-eval-harness">agent-eval-harness</a></h4>
+      <p>Deterministic async Python evaluation, SLA verification, retry-loop detection, and PII safety harness for LLM tool-calling and MCP agents.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Asyncio-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖥️ <a href="https://github.com/Bugraciftci/Portfolyo">Portfolyo (Interactive Bento Site)</a></h4>
+      <p>Dark-mode engineering portfolio with interactive iPhone 16 Pro preview, macOS Dock, 30+ live App Store titles, and bilingual EN/TR support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 <a href="https://github.com/Bugraciftci/kariyer-radar">Kariyer Radar</a></h4>
+      <p>Modular Python job-portal aggregation engine with multi-sector adapters, deduplicated SQLite storage, Rich CLI, and FastAPI web dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📱 <a href="https://github.com/Bugraciftci/decorly-website">Decorly AI Platform</a></h4>
@@ -71,29 +111,10 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
     </td>
     <td width="50%" valign="top">
       <h4>🍎 <a href="https://apps.apple.com/tr/developer/muhammed-bugra-ciftci/id1726010593">App Store Portfolio (30+ Titles)</a></h4>
-      <p>Commercial suite of AI audio/video, live vision, and system-level productivity apps built with SwiftUI, AVFoundation, ScreenTime API, and StoreKit 2.</p>
+      <p>Commercial suite of AI audio/video, live camera vision, and ScreenTime API productivity apps built with SwiftUI, AVFoundation, and StoreKit 2.</p>
       <p>
-        <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/StoreKit_2-34C759?style=flat-square&logo=apple&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏋️ <a href="https://github.com/Bugraciftci/MyFitness">MyFitness iOS App</a></h4>
-      <p>SwiftUI fitness tracking application featuring modular MVVM architecture, dynamic dashboards, and reactive data flow with Combine.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Combine-FF9500?style=flat-square&logo=apple&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📜 <a href="https://bugraciftci.github.io/Bugra-S-App/">App Store Compliance &amp; Legal Hub</a></h4>
-      <p>Centralized compliance hub serving Terms of Use and Privacy Policies for App Store Connect submissions and subscriptions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
+        <img src="https://img.shields.io/badge/iOS_17+-000000?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/CarPlay-0071E3?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/RevenueCat-E74C3C?style=flat-square&logo=revenuecat&logoColor=white" />
       </p>
     </td>
