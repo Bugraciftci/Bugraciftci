@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=iOS+%26+Mobile+Systems+Engineer+(Swift+6+%7C+SwiftUI+%7C+CarPlay);10%2B+Monetized+App+Store+Apps+%E2%80%A2+%3E99.5%25+Crash-Free;AI+Agents%2C+Evaluation+%26+Product+Analytics;Building+Scalable%2C+High-Performance+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=iOS+%26+Mobile+Systems+Engineer+(Swift+6+%7C+SwiftUI+%7C+CarPlay);30%2B+Published+App+Store+Apps+%E2%80%A2+%3E99.5%25+Crash-Free;AI+Agents%2C+Evaluation+%26+Product+Analytics;Building+Scalable%2C+High-Performance+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Stack Software Engineer** with commercial production experience and **10+ monetized native apps** on the App Store (across 30+ developed titles, **>99.5% crash-free**).
+Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Stack Software Engineer** with commercial production experience and **30+ published native apps (10+ monetized)** on the App Store (**>99.5% crash-free**).
 
 - 🔭 **Mobile & Apple Ecosystem:** Swift 6, SwiftUI, UIKit, Combine, Structured Concurrency (`async/await`, Actors), CarPlay (`CPTemplate`), ScreenTime API (`FamilyControls`), WidgetKit, AVFoundation, StoreKit 2
 - 🏗️ **Architecture & Systems:** Clean Architecture, Protocol-Oriented MVVM, Vector-Clock Sync, Keychain Security, XCTest, Xcode Instruments
@@ -110,12 +110,12 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📡 <a href="https://github.com/Bugraciftci/kariyer-radar">Kariyer Radar</a></h4>
-      <p>Modular Python job-portal aggregation engine with multi-sector adapters, deduplicated SQLite storage, Rich CLI, and FastAPI web dashboard.</p>
+      <h4>🏃 <a href="https://github.com/Bugraciftci/MyFitness">MyFitness (SwiftUI &amp; Combine MVVM)</a></h4>
+      <p>Native iOS fitness &amp; activity tracking app engineered with Swift, SwiftUI, and Combine adhering to clean MVVM architecture and modular reusable UI components.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Combine_MVVM-FF9500?style=flat-square&logo=apple&logoColor=white" />
       </p>
     </td>
   </tr>
