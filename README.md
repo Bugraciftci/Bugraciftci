@@ -110,12 +110,12 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏃 <a href="https://github.com/Bugraciftci/MyFitness">MyFitness (SwiftUI &amp; Combine MVVM)</a></h4>
-      <p>Native iOS fitness &amp; activity tracking app engineered with Swift, SwiftUI, and Combine adhering to clean MVVM architecture and modular reusable UI components.</p>
+      <h4>🏋️‍♂️ <a href="https://github.com/Bugraciftci/MyFitness">MyFitness v2.0 (SwiftUI &amp; Combine MVVM)</a></h4>
+      <p>Native iOS workout studio &amp; 870+ exercise encyclopedia featuring a 2-phase animated form player, actor-isolated image cache, Swift Charts analytics, Epley 1RM logger, and offline seed resilience.</p>
       <p>
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Combine_MVVM-FF9500?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI_%2B_Charts-0071E3?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Combine_MVVM-10B981?style=flat-square" />
       </p>
     </td>
   </tr>
