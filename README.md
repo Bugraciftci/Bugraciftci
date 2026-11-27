@@ -126,8 +126,9 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
 ### 🤝 Open-Source Contributions
 
 - **[RevenueCat/purchases-ios#8314](https://github.com/RevenueCat/purchases-ios/pull/8314):** Isolated Paywalls V2 purchase and restore button loading indicators during pending `didInitiatePurchaseWith` / `didInitiateRestoreWith` continuations via `ActionType.pendingRestoreContinuation` and a shared throw-safe `withPendingContinuation` helper (`Resolves #8199`).
+- **[vapor/vapor#3639](https://github.com/vapor/vapor/pull/3639):** Added index shorthand decoding support (`key[][field]`) for arrays of `Codable` structs in `URLEncodedFormData` / `URLEncodedFormDecoder`, verified across 48 `URLEncodedFormTests` cases (`Fixes #3330`).
 - **[pointfreeco/swift-sharing#249](https://github.com/pointfreeco/swift-sharing/pull/249):** Fixed stale read-after-write behavior in `UserDefaults.inMemory` under parallel suites by backing each instance with a unique named suite cleaned up on `deinit`, verified with an 8x2,000 concurrent stress test (`Fixes #244`, 130/130 tests passing).
-- **[modelcontextprotocol/swift-sdk#386](https://github.com/modelcontextprotocol/swift-sdk/pull/386):** Fixed `Client.withBatch` / `Batch.addRequest` concurrency registration race and pending continuation cleanup on `transport.send` or closure failures (`Fixes #324`, verified across 582 Swift Testing cases).
+- **[modelcontextprotocol/swift-sdk#386](https://github.com/modelcontextprotocol/swift-sdk/pull/386):** Rebased onto `rel/1.0.0` per maintainer review and added the `BatchTests.sendFailure()` regression test in `RequestLifecycleTests.swift` covering batch transport send failures (`Fixes #324`, 1,420/1,420 tests passing).
 - **[SwiftPackageIndex/PackageList#16417](https://github.com/SwiftPackageIndex/PackageList/pull/16417):** Registered `SwiftStoreFlow` and `CarPlaySyncKit` (`v2.0.0`, DocC `.spi.yml`) into the official Swift Package Index.
 
 ---
