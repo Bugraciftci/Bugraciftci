@@ -64,18 +64,18 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
       <h4>💎 <a href="https://github.com/Bugraciftci/SwiftStoreFlow">SwiftStoreFlow v2.0</a></h4>
       <p>Swift 6 &amp; SwiftUI StoreKit 2 monetization architecture with deterministic A/B paywall bucketing, Churn/Win-Back offer engine, Chi-Square SRM guard, live <code>TransactionObserverActor</code>, JWS validation hooks, and Keychain offline entitlements.</p>
       <p>
-        <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/StoreKit_2-34C759?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/A%2FB_%26_Winback-38BDF8?style=flat-square" />
+        <a href="https://github.com/Bugraciftci/SwiftStoreFlow/actions/workflows/ci.yml"><img src="https://github.com/Bugraciftci/SwiftStoreFlow/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+        <a href="https://bugraciftci.github.io/SwiftStoreFlow/documentation/swiftstoreflow/"><img src="https://img.shields.io/badge/DocC-API_Docs-6366F1?style=flat-square" alt="DocC" /></a>
+        <img src="https://img.shields.io/badge/26_XCTests-22C55E?style=flat-square" alt="Tests" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/Bugraciftci/agent-eval-harness">agent-eval-harness v2.0</a></h4>
       <p>Zero-dependency async Python evaluation &amp; adversarial red-team studio for LLM/MCP agents with 14 evaluators (Prompt-Injection, Path Traversal &amp; Data Exfiltration guards), token cost pricing, and dark HTML SVG reports.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP_Security_Evals-22D3EE?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <a href="https://github.com/Bugraciftci/agent-eval-harness/actions/workflows/ci.yml"><img src="https://github.com/Bugraciftci/agent-eval-harness/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+        <a href="https://bugraciftci.github.io/agent-eval-harness/"><img src="https://img.shields.io/badge/Live_Demo-HTML_Report-22D3EE?style=flat-square" alt="Demo" /></a>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
   </tr>
@@ -84,18 +84,18 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
       <h4>🚗 <a href="https://github.com/Bugraciftci/CarPlaySyncKit">CarPlaySyncKit v2.0</a></h4>
       <p>Swift 6 bidirectional iPhone ↔ CarPlay head-unit state sync engine with SwiftUI Automotive HUD Simulator, drive-cycle telemetry replay, vector-clock conflict resolution, and priority ring-buffer offline queueing.</p>
       <p>
-        <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/CarPlay_HUD-10B981?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vector_Clocks-0F172A?style=flat-square" />
+        <a href="https://github.com/Bugraciftci/CarPlaySyncKit/actions/workflows/ci.yml"><img src="https://github.com/Bugraciftci/CarPlaySyncKit/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+        <a href="https://bugraciftci.github.io/CarPlaySyncKit/documentation/carplaysynckit/"><img src="https://img.shields.io/badge/DocC-API_Docs-6366F1?style=flat-square" alt="DocC" /></a>
+        <img src="https://img.shields.io/badge/19_XCTests-10B981?style=flat-square" alt="Tests" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://github.com/Bugraciftci/GamePulse-Analytics">GamePulse-Analytics v2.0</a></h4>
       <p>Mobile game &amp; consumer app product analytics engine: SQL cohort retention (D1–D30), RFM Whale/Dolphin/At-Risk VIP segmentation, Gini revenue concentration, LTV/ROAS payback modeling, and Frequentist A/B Z-test + SRM guard.</p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/RFM_%26_Cohorts-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/A%2FB_Stats-EC4899?style=flat-square" />
+        <a href="https://github.com/Bugraciftci/GamePulse-Analytics/actions/workflows/ci.yml"><img src="https://github.com/Bugraciftci/GamePulse-Analytics/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+        <a href="https://bugraciftci.github.io/GamePulse-Analytics/"><img src="https://img.shields.io/badge/Live_Demo-Dashboard-A855F7?style=flat-square" alt="Demo" /></a>
+        <a href="https://bugraciftci.github.io/GamePulse-Analytics/openapi.json"><img src="https://img.shields.io/badge/OpenAPI_3.1-009688?style=flat-square" alt="OpenAPI" /></a>
       </p>
     </td>
   </tr>
@@ -104,22 +104,29 @@ Computer Engineering graduate (Bahçeşehir University) and **iOS, AI & Full-Sta
       <h4>🏋️‍♂️ <a href="https://github.com/Bugraciftci/MyFitness">MyFitness v2.0 (SwiftUI &amp; Combine MVVM)</a></h4>
       <p>Native iOS workout studio &amp; 870+ exercise encyclopedia featuring a 2-phase animated form player, actor-isolated image cache, Swift Charts analytics, Epley 1RM logger, and offline seed resilience.</p>
       <p>
+        <a href="https://github.com/Bugraciftci/MyFitness/actions/workflows/ci.yml"><img src="https://github.com/Bugraciftci/MyFitness/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
         <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/SwiftUI_%2B_Charts-0071E3?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Combine_MVVM-10B981?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🍳 <a href="https://github.com/Bugraciftci/FoodRecipe">FoodRecipe v2.0 (Culinary &amp; Macro Studio)</a></h4>
       <p>Native iOS culinary studio with Smart Pantry ingredient % matcher, live TheMealDB sync, dynamic portion &amp; macro scaling, hands-free cooking mode step timers, and Swift Charts weekly meal planner.</p>
       <p>
+        <a href="https://github.com/Bugraciftci/FoodRecipe/actions/workflows/ci.yml"><img src="https://github.com/Bugraciftci/FoodRecipe/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
         <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/Swift_Charts-F5852E?style=flat-square&logo=apple&logoColor=white" />
-        <img src="https://img.shields.io/badge/Protocol_MVVM-29C78A?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🤝 Open-Source Contributions
+
+- **[modelcontextprotocol/swift-sdk#386](https://github.com/modelcontextprotocol/swift-sdk/pull/386):** Fixed `Client.withBatch` / `Batch.addRequest` concurrency registration race and pending continuation cleanup on `transport.send` or closure failures (`Fixes #324`, verified across 582 Swift Testing cases).
+- **[SwiftPackageIndex/PackageList#16417](https://github.com/SwiftPackageIndex/PackageList/pull/16417):** Registered `SwiftStoreFlow` and `CarPlaySyncKit` (`v2.0.0`, DocC `.spi.yml`) into the official Swift Package Index.
 
 ---
 
